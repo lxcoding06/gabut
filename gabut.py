@@ -766,7 +766,7 @@ def tentang():
 | contact : fb.me/lx.coding |
 +---------------------------+"""
 	print "segala yang terjadi saat menggunakan tools ini ditanggu oleh pengguna\nJika terjadi error/bug harap hubungi saya"
-	print "terima kasih kepada : Allah SWT, member CRABS_ID, dan kepada diri saya sendiri hehe"
+	print "terima kasih kepada : Allah ,Doi W dan kepada diri saya sendiri h3h3"
 	print
 
 def keluar():
